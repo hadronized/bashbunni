@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:panda_face: Currently working on an nmap-based tool to find vulnerabilities on a LAN (for IT people and system administrators)
+:panda_face: Currently working on tools and scripts for IT people and system administrators
