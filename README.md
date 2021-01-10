@@ -4,7 +4,7 @@
 :panda_face:
 
 ### A bit about me
-I like skiing, hiking, doggos, organizing, and coding. 
+I like skiing, hiking, animals, rainy days of the PNW, organizing, and coding. 
 
 I'm a huge fan of the open source app Super Productivity and I'm looking forward to contributing to that project in some way and working towards building my own productivity app(s). 
 
