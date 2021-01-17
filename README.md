@@ -8,5 +8,5 @@ I like skiing, hiking, animals, rainy days of the PNW, organizing, and coding.
 
 I'm a huge fan of the open source app Super Productivity and I'm looking forward to contributing to that project in some way and working towards building my own productivity app(s). 
 
-I also use Keybase for remote git repos; that's another great tool in my opinion. Beyond programming I'm also very interested in cyber security and writing programs to support infosec tools and reporting. 
+I also use Keybase for remote git repos; that's another great tool in my opinion. Other interests of mine include cyber security and writing programs to support infosec tools and reporting. 
 
