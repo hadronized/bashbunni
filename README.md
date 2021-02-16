@@ -4,4 +4,4 @@
 :panda_face:
 
 ### A bit about me
-I like skiing, hiking, animals, rainy days of the PNW, organizing, and coding. 
+I like skiing, hiking, animals, rainy days of the PNW, and coding. 
